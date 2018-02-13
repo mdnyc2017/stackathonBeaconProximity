@@ -1,7 +1,6 @@
 # Stackathon Project: Bluetooth Beacon Proximity Application
 ## By Michael Douglas
 
-##Description
 This application coded in Swift listens for the transmissions of three Bluetooth Low Energy Beacons by [Estimote](https://estimote.com/products/).
 
 The color of the Beacon with the strongest signal, i.e. the closest beacon, is reflected on the iPhone's screen.
